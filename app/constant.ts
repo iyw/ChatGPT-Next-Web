@@ -102,6 +102,10 @@ export const DEFAULT_MODELS = [
     available: true,
   },
   {
+    name: "gpt-4-all",
+    available: true,
+  },
+  {
     name: "gpt-4-0314",
     available: true,
   },
